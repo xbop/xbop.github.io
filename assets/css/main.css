@@ -136,7 +136,7 @@ input, select, textarea {
 	}
 
 	.role {
-		margin: 7px;
+		margin: 20px;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -3086,7 +3086,7 @@ input, select, textarea {
 
 			#footer {
 				background-attachment: scroll;
-				background-color: #1f1815;
+				/* background-color: #1f1815; */
 				background-image: url("images/overlay.png"), url("../../images/new_bg.png");
 				background-position: top left,						bottom center;
 				background-repeat: repeat,							no-repeat;
